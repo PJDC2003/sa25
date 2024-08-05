@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+html,
+body {
+    overflow-x: clip;
+    background-color: #fff;
+    color: #4a5568;
+    font-family: 'Merriweather Sans', 'Helvetica Neue', Arial, sans-serif;
+    font-weight: 200;
+    margin: 0;
+}
+
+.container {
+    @apply mx-auto;
+}
+
+.clicable {
+    @apply hover:scale-102 duration-200 transform cursor-pointer;
+}
+
+.button {
+    @apply px-4 py-2 mx-auto text-base font-bold tracking-wide text-center text-white uppercase align-middle transition-colors duration-500 rounded-full md:max-w-15 bg-primary_light hover:bg-primary_dark min-w-1/10;
+}

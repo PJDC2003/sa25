@@ -1,0 +1,204 @@
+[
+    {
+        "slug": "session_1",
+        "type": "session",
+        "day": "2024-02-19",
+        "time": "10:00",
+        "name": "Opening Session",
+        "companies_slug": [
+            "ptspace",
+            "aerotec",
+            "ist",
+            "beyondgravity",
+            "oe",
+            "mctes"
+        ]
+    },
+    {
+        "slug": "alumni_1",
+        "type": "alumniTalk",
+        "day": "2024-02-20",
+        "time": "16:00",
+        "alumni_slug": [
+            "joaocanas",
+            "tiagobento",
+            "inesmiguel",
+            "gabrielagomes"
+        ]
+    },
+    {
+        "slug": "alumni_2",
+        "type": "alumniTalk",
+        "day": "2024-02-21",
+        "time": "16:00",
+        "alumni_slug": [
+            "joaofranco",
+            "andreroque",
+            "inesdavila",
+            "beatrizmacedo"
+        ]
+    },
+    {
+        "slug": "roundtable_1",
+        "name": "Roundtable 1",
+        "type": "roundtable",
+        "capacity": "30",
+        "full": false,
+        "link_registration": "https://docs.google.com/forms/d/e/1FAIpQLSe3ChAN32akTuZmyk159arTkMWUeUH3GisRSdnQ0dKQkj4rLQ/viewform",
+        "day": "2024-02-21",
+        "time": "10:00",
+        "duration": "01:15",
+        "registration": {
+            "day": "2024-02-10",
+            "time": "12:00"
+        },
+        "companies_slug": [
+            "beyondgravity",
+            "ifa",
+            "awa",
+            "aernnova",
+            "ceiia",
+            "geosat"
+        ]
+    },
+    {
+        "slug": "roundtable_2",
+        "name": "Roundtable 2",
+        "type": "roundtable",
+        "capacity": "25",
+        "full": false,
+        "link_registration": "https://docs.google.com/forms/d/e/1FAIpQLSdDh4pCRbCpJDzNGR99Cs-8Wlx5buFiaI8X8j_i1FBF0N-P5A/viewform",
+        "day": "2024-02-22",
+        "time": "10:00",
+        "duration": "01:15",
+        "registration": {
+            "day": "2024-02-10",
+            "time": "12:00"
+        },
+        "companies_slug": [
+            "blueoasis",
+            "deimos",
+            "sabena",
+            "neyond",
+            "orionengineering",
+            "isq",
+            "anac"
+        ]
+    },
+    {
+        "slug": "roundtable_3",
+        "name": "Roundtable 3",
+        "type": "roundtable",
+        "capacity": "30",
+        "link_registration": "https://docs.google.com/forms/d/e/1FAIpQLScsP3buA5S_aj9dlO-FXDwLlgeMVs6pmS_pD6JAcxDOB6RbYQ/viewform",
+        "full": false,
+        "day": "2024-02-23",
+        "time": "10:00",
+        "duration": "01:15",
+        "registration": {
+            "day": "2024-02-10",
+            "time": "12:00"
+        },
+        "companies_slug": ["airbus", "qsr", "nos", "gmv", "nimble"]
+    },
+    {
+        "slug": "workshop_1",
+        "type": "workshop",
+        "day": "2024-02-22",
+        "time": "12:00",
+        "url_imagem": "workshop1.jpg",
+        "name": "From space down to Earth in 120 minutes!",
+        "capacity": "30",
+        "duration": "2h",
+        "description": [
+            "ESA Space Solutions Portugal workshop consisting of the presentation of a technological challenge. The challenge is unknown until the time of the workshop and participants will have 120 minutes to solve it."
+        ],
+        "company_slug": "ipn",
+        "registration": {
+            "day": "2024-02-10",
+            "time": "12:00"
+        },
+        "link_registration": "https://docs.google.com/forms/d/e/1FAIpQLSese3hunR30VGOAupFeC3FgsmlE4NCvB7xuuWq7Eh0QYZXAmw/viewform",
+        "full": false
+    },
+    {
+        "slug": "workshop_2",
+        "type": "workshop",
+        "day": "2024-02-19",
+        "time": "12:00",
+        "url_imagem": "workshop2.jpg",
+        "name": "Power BI: Importância dos Dados",
+        "capacity": "30",
+        "duration": "2h",
+        "description": [
+            " Sala: V1.33 (Pavilhão de Civil) No workshop iremos aprofundar as funcionalidades mais importantes do Power BI, desde a importação e modelação dos dados até à criação de visualizações avançadas. Esta iniciativa permitirá desenvolver competência na construção de dashboards interativos, ajudando assim a interpretação de insights cruciais para uma tomada de decisão informada. Adicionalmente, exploraremos técnicas avançadas de análise de dados, tais como a implementação de fórmulas DAX para cálculos completos, a integração com fontes externas e a personalização de relatórios que possam atender a necessidades específicas de um negócio ou projeto."
+        ],
+        "company_slug": "nttdata",
+        "registration": {
+            "day": "2024-02-10",
+            "time": "12:00"
+        },
+        "link_registration": "https://docs.google.com/forms/d/e/1FAIpQLScfnWiRAwvYFK_Nbs7wveuhX45F8OH6uY4PmRe0ovqs3JwKpg/viewform",
+        "full": false
+    },
+    {
+        "slug": "workshop_3",
+        "type": "workshop",
+        "day": "2024-02-21",
+        "time": "17:30",
+        "url_imagem": "workshop3.jpg",
+        "name": "Airline Strategy and Data Analysis Excel Workshop",
+        "capacity": "30",
+        "duration": "1h (online)",
+        "description": [
+            "Online e V0.04. Durante o Workshop, poderá descobrir como as equipas de estratégia das companhias aéreas analisam os dados para decidir as rotas a operar. Descobrirá todas as possibilidades do Excel e utilizá-lo-á para analisar dados reais como exemplo."
+        ],
+        "company_slug": "itaerea",
+        "registration": {
+            "day": "2024-02-09",
+            "time": "12:00"
+        },
+        "link_registration": "https://docs.google.com/forms/d/e/1FAIpQLSeopAWq9axLk0NU5qZLnCIpzJyNf62YayqFi8YTqLiKi4uQug/viewform",
+        "full": false
+    },
+    {
+        "slug": "workshop_4",
+        "type": "workshop",
+        "day": "2024-02-20",
+        "time": "12:00",
+        "url_imagem": "workshop4.jpg",
+        "name": "Empreendedorismo Espacial 101",
+        "capacity": "24",
+        "duration": "2h",
+        "description": [
+            "VA2 (Pavilhão de Civil). Já alguma vez pensaste em ter o teu próprio negócio espacial? Com o Workshop Empreendedorismo Espacial 101 aprenderás os conceitos básicos para criar uma empresa de sucesso no setor espacial. Esta formação abordará vários tópicos, desde aspetos técnicos ao mercado, passando pelo modelo de negócios e equipa. No Empreendedorismo Espacial 101 terás a oportunidade de pôr a teoria em prática e despertar a tua veia empreendedora!"
+        ],
+        "company_slug": "ptspace",
+        "registration": {
+            "day": "2024-02-10",
+            "time": "12:00"
+        },
+        "link_registration": "https://docs.google.com/forms/d/e/1FAIpQLSetbyMUD4rn4Ykaby7iGg6lbH-rlJ9HOxT6BReYr9hR2INjTA/viewform",
+        "full": false
+    },
+    {
+        "slug": "workshop_5",
+        "type": "workshop",
+        "day": "2024-02-23",
+        "time": "12:00",
+        "url_imagem": "workshop5.jpg",
+        "name": "Orion Technik Skills Challenge",
+        "capacity": "30",
+        "duration": "1h",
+        "description": [
+            "F2 (Pavilhão de Informática I). Workshop sobre os vários desafios da implementação prática de sistemas aviónicos numa aeronave real. Numa primeira fase aprenderão sobre os sistemas implementados numa aeronave, o seu funcionamento e a sua forma como comunicam entre si. Em seguida, é exposto um desafio que coloca os ouvintes num cenário real, onde é necessário a escolha do momento de ativação de um sistema no momento certo, tendo em conta as várias condicionantes reais presentes num voo."
+        ],
+        "company_slug": "oriontechnik",
+        "registration": {
+            "day": "2024-02-10",
+            "time": "12:00"
+        },
+        "link_registration": "https://docs.google.com/forms/d/e/1FAIpQLSclumD82hkX4zkVwGcTT2up7Vfr-Hg0G3yZXPWWOD_yCvJzRA/viewform",
+        "full": false
+    }
+]

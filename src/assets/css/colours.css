@@ -1,0 +1,96 @@
+.gradient-bg {
+    background: rgb(8, 16, 25);
+    background: -moz-linear-gradient(
+        328deg,
+        rgba(8, 16, 25, 1) 0%,
+        rgba(5, 26, 52, 1) 50%,
+        rgba(29, 55, 87, 1) 100%
+    );
+    background: -webkit-linear-gradient(
+        328deg,
+        rgba(8, 16, 25, 1) 0%,
+        rgba(5, 26, 52, 1) 50%,
+        rgba(29, 55, 87, 1) 100%
+    );
+    background: linear-gradient(
+        328deg,
+        rgba(8, 16, 25, 1) 0%,
+        rgba(5, 26, 52, 1) 50%,
+        rgba(29, 55, 87, 1) 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#081019",endColorstr="#1d3757",GradientType=1);
+}
+
+.gradient-button {
+    background: rgb(11, 44, 82);
+    background: -moz-linear-gradient(
+        328deg,
+        rgba(11, 44, 82) 0%,
+        rgb(12, 65, 129) 50%,
+        rgb(44, 98, 163) 100%
+    );
+    background: -webkit-linear-gradient(
+        328deg,
+        rgba(11, 44, 82) 0%,
+        rgba(12, 65, 129) 50%,
+        rgba(44, 98, 163) 100%
+    );
+    background: linear-gradient(
+        328deg,
+        rgba(11, 44, 82) 0%,
+        rgba(12, 65, 129) 50%,
+        rgba(44, 98, 163) 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#0b2c52",endColorstr="#2c62a3",GradientType=1);
+}
+
+.bg-main {
+    --tw-bg-opacity: 1;
+    background-color: rgb(7 47 96 / var(--tw-bg-opacity));
+    background-color: rgb(15 185 236 / var(--tw-bg-opacity));
+    background-image: linear-gradient(
+        to bottom right,
+        rgb(15 185 236),
+        rgb(10 157 201)
+    );
+}
+
+.bg-premium {
+    --tw-bg-opacity: 1;
+    background-color: rgb(20, 170, 37 / var(--tw-bg-opacity));
+    background-image: linear-gradient(
+        to bottom right,
+        rgb(30, 217, 68),
+        rgb(20, 170, 37)
+    );
+}
+
+.bg-gold {
+    --tw-bg-opacity: 1;
+    background-color: rgb(212 175 55 / var(--tw-bg-opacity));
+    background-image: linear-gradient(
+        to bottom right,
+        rgb(255 215 0),
+        rgb(212 175 55)
+    );
+}
+
+.bg-silver {
+    --tw-bg-opacity: 1;
+    background-color: rgb(192 192 192 / var(--tw-bg-opacity));
+    background-image: linear-gradient(
+        to bottom right,
+        rgb(192 192 192),
+        rgb(128 128 128)
+    );
+}
+
+.bg-invited {
+    --tw-bg-opacity: 1;
+    background-color: rgb(255 160 122 / var(--tw-bg-opacity));
+    background-image: linear-gradient(
+        to bottom right,
+        rgb(255 160 122),
+        rgb(235 128 96)
+    );
+}

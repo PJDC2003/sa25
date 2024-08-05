@@ -1,0 +1,177 @@
+[
+    {
+        "name": "Pedro Sousa",
+        "email": "pedroalbuquerquesousa@tecnico.ulisboa.pt",
+        "team": "Semana Aeroespacial 2024",
+        "position": "Coordenador do Projeto",
+        "linkedin": "https://www.linkedin.com//in//pedro-sousaa",
+        "url_img": "pedro_sousa"
+    },
+    {
+        "name": "Rafael Coimbra",
+        "email": "rafael.coimbra.azeiteiro@tecnico.ulisboa.pt",
+        "team": "Website & Tecnologia",
+        "position": "Líder de Equipa",
+        "linkedin": "https://www.linkedin.com//in//rafael-coimbra-59934a256//",
+        "url_img": "rafael_coimbra"
+    },
+    {
+        "name": "Sofia Simões",
+        "email": "sofiavsimoes@tecnico.ulisboa.pt",
+        "team": "Logística & Dinamização",
+        "position": "Líder de Equipa",
+        "url_img": "sofia_simoes"
+    },
+    {
+        "name": "Diogo Paulo",
+        "email": "diogo.c.paulo@tecnico.ulisboa.pt",
+        "team": "Marketing e Divulgação",
+        "position": "Membro da Equipa",
+        "linkedin": "https://www.linkedin.com//in//diogo-paulo",
+        "url_img": "diogo_paulo"
+    },
+    {
+        "name": "Ania Pereira",
+        "email": "aniacpereira@gmail.com",
+        "team": "Marketing e Divulgação",
+        "position": "Membro da Equipa",
+        "url_img": "ania_pereira"
+    },
+    {
+        "name": "Pedro Correia",
+        "email": "pedro.jorge.duarte.correia@tecnico.ulisboa.pt",
+        "team": "Website & Tecnologia",
+        "position": "Membro da Equipa",
+        "linkedin": "https://www.linkedin.com/in/pedrocorreia2003/",
+        "url_img": "pedro_correia"
+    },
+    {
+        "name": "Rodrigo Ferreira",
+        "email": "rodrigo.c.ferreira@tecnico.ulisboa.pt",
+        "team": "Patrocínios & Oradores",
+        "position": "Líder de Equipa",
+        "linkedin": "https://www.linkedin.com//in//rodrigo-ferreira7//",
+        "url_img": "rodrigo_ferreira"
+    },
+    {
+        "name": "Tomás Pinho",
+        "email": "tcostapinho@tecnico.ulisboa.pt",
+        "team": "Marketing e Divulgação",
+        "position": "Líder de Equipa",
+        "linkedin": "https://www.linkedin.com//in//tcostapinho",
+        "url_img": "tomas_pinho"
+    },
+    {
+        "name": "Raj Popat",
+        "email": "Raj.jayesh.popat@tecnico.ulisboa.pt",
+        "team": "Patrocínios & Oradores",
+        "position": "Membro da Equipa",
+        "linkedin": "https://www.linkedin.com/in/raj-popat-6aa4a8262/",
+        "url_img": "raj_popat"
+    },
+    {
+        "name": "Sara Sousa",
+        "email": "sarartsousa@tecnico.ulisboa.pt",
+        "team": "Patrocínios & Oradores",
+        "position": "Membro da Equipa",
+        "linkedin": "https://www.linkedin.com//in//sara-tsousa//",
+        "url_img": "sara_sousa"
+    },
+    {
+        "name": "Francisca Quaresma ",
+        "email": "francisca.quaresma@tecnico.ulisboa.pt",
+        "team": "Logística & Dinamização",
+        "position": "Membro da Equipa",
+        "url_img": "francisca_quaresma"
+    },
+    {
+        "name": "João Alegrete",
+        "email": "joao.alegrete@tecnico.ulisboa.pt",
+        "team": "Website & Tecnologia",
+        "position": "Membro da Equipa",
+        "url_img": "joao_alegrete"
+    },
+    {
+        "name": "Álvaro Caridade ",
+        "email": "alvaro.caridade@tecnico.ulisboa.pt",
+        "team": "Patrocínios & Oradores",
+        "position": "Membro da Equipa",
+        "linkedin": "https://www.linkedin.com//in//álvaro-caridade-8500b0268",
+        "url_img": "alvaro_caridade"
+    },
+    {
+        "name": "Eduarda Carvalho",
+        "email": "maria.eduarda.esmeraldo@tecnico.ulisboa.pt",
+        "team": "Logística & Dinamização",
+        "position": "Membro da Equipa",
+        "url_img": "eduarda_carvalho"
+    },
+    {
+        "name": "Maria Lemos",
+        "email": "maria.lemos@tecnico.ulisboa.pt",
+        "team": "Marketing e Divulgação",
+        "position": "Membro da Equipa",
+        "url_img": "maria_lemos"
+    },
+    {
+        "name": "Duarte Fernandes",
+        "email": "duarte.r.fernandes@tecnico.ulisboa.pt",
+        "team": "Marketing e Divulgação",
+        "position": "Membro da Equipa",
+        "linkedin": "https://www.linkedin.com//in//duarte-fernandes-6b9249250",
+        "url_img": "duarte_fernandes"
+    },
+    {
+        "name": "Madalena Cunha",
+        "email": "madalena.cunha@tecnico.ulisboa.pt",
+        "team": "Website & Tecnologia",
+        "position": "Membro da Equipa",
+        "url_img": "madalena_cunha"
+    },
+    {
+        "name": "Sara Esteves",
+        "email": "sara.n.esteves@tecnico.ulisboa.pt",
+        "team": "Patrocínios & Oradores",
+        "position": "Membro da Equipa",
+        "linkedin": "http://linkedin.com//in//sara-esteves-171445277",
+        "url_img": "sara_esteves"
+    },
+    {
+        "name": "Ricardo Abreu",
+        "email": "ricardocordeiro@tecnico.ulisboa.pt",
+        "team": "Patrocínios & Oradores",
+        "position": "Membro da Equipa",
+        "url_img": "ricardo_abreu"
+    },
+    {
+        "name": "Rodrigo Neves",
+        "email": "rodrigo.das.neves@tecnico.ulisboa.pt",
+        "team": "Patrocínios & Oradores",
+        "position": "Membro da Equipa",
+        "linkedin": "https://www.linkedin.com/in/rodrigo-figueira-das-neves-6727b222a/",
+        "url_img": "rodrigo_neves"
+    },
+    {
+        "name": "Inês Costa",
+        "email": "ines.da.costa@tecnico.ulisboa.pt",
+        "team": "Marketing e Divulgação",
+        "position": "Membro da Equipa",
+        "linkedin": "https://www.linkedin.com/in/in%C3%AAs-jo%C3%A3o-costa-40420226a/",
+        "url_img": "ines_costa"
+    },
+    {
+        "name": "Eduardo Helena",
+        "email": "eduardo.helena@tecnico.ulisboa.pt",
+        "team": "Website & Tecnologia",
+        "position": "Membro da Equipa",
+        "linkedin": "https://www.linkedin.com//in//eduardo-de-almeida-helena-36403b270",
+        "url_img": "eduardo_helena"
+    },
+    {
+        "name": "Pedro Gonçalves",
+        "email": "pedro.martins.goncalves@tecnico.ulisboa.pt",
+        "team": "Logística & Dinamização",
+        "position": "Membro da Equipa",
+        "url_imagem": "pedro_goncalves"
+    }
+]
