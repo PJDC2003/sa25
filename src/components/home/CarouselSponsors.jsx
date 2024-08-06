@@ -48,7 +48,7 @@ const CarouselSponsors = () => {
     }, []);
 
     return (
-        <section className="py-8 bg-gray-100 px-5">
+        <section className="py-8">
             <div className="container mx-auto text-center">
                 <h2 className="text-2xl font-semibold mb-6">Main Sponsors</h2>
                 <Slider {...settings}>

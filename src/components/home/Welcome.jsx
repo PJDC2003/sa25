@@ -22,7 +22,7 @@ const Welcome = () => {
     }, []);
 
     return (
-        <div id="welcome" style={{ backgroundImage: `url(${bgImage})` }} className="relative bg-fixed left-0 top-0 w-full min-h-fit bg-lightblue bg-center bg-cover z-30 flex">
+        <div style={{ backgroundImage: `url(${bgImage})` }} className="relative bg-fixed left-0 top-0 w-full min-h-fit bg-lightblue bg-center bg-cover z-30 flex">
             <div className="z-40 w-full min-h-screen top-0 bg-transparent flex flex-col justify-center items-center">
                 <div className="w-full mx-auto text-center shadow-md lg:shadow-xl bg-white bg-opacity-90">
                     <div className="container py-8">

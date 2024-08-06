@@ -6,7 +6,7 @@ const Footer = () => {
                 <div className="pt-10 text-xl leading-tight lg:text-2xl">
                     <p>Contactos</p>
                 </div>
-                <div className="my-2 font-sans text-footer">
+                <div className="font-sans text-footer">
                     <p>Podes entrar em contacto connosco através de:</p>
                     <div className="mx-auto w-64 mt-6 font-sans text-footer grid grid-cols-5 justify-items-center sm:gap-x-0">
                         {/* FACEBOOK */}
@@ -33,7 +33,7 @@ const Footer = () => {
                 </div>
             </div>
             {/* AEROTEC LOGOS */}
-            <div className="w-full mx-auto py-10 text-center lg:w-3/5 flex">
+            <div className="w-full mx-auto py-5 text-center lg:w-3/5 flex">
                 {/* IST */}
                 <div className="h-auto w-1/3 place-self-center">
                     <a href="https://tecnico.ulisboa.pt/pt/" target="_blank">
