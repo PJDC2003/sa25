@@ -1,0 +1,69 @@
+[
+    {
+        "slug": "upalentejo",
+        "name": "Up Alentejo",
+        "link_website": "https://www.upalentejo.pt/",
+        "website": "upalentejo.pt",
+        "img": "upalentejo.png",
+        "description": "A Up Alentejo é uma marca da Emotion Sports - Desporto Natureza e Turismo Activo, lda declarada na ANAC de acordo com as normas EASA (European Aviation Safety Agency) como operador de transporte aéreo de passaegiros em balões de ar quente. Os seus pilotos e equipa de terra garantem uma operação segura e de qualidade.",
+        "facebook": "https://www.facebook.com/upalentejo",
+        "instagram": "https://www.instagram.com/upalentejo/",
+        "youtube_video_id": "471X36MVvKw"
+    },
+    {
+        "slug": "naturimont",
+        "name": "Naturimont",
+        "link_website": "https://www.naturimont.com",
+        "website": "naturimont.com",
+        "img": "naturimont.png",
+        "description": "Naturimont é uma empresa no ramo do desporto, aventura e animação turística que durante mais de 20 anos tem estado a contribuir para o bem estar físico, psíquico e social dos seus clientes!",
+        "facebook": null,
+        "instagram": "https://www.instagram.com/naturimont/",
+        "youtube_video_id": "KD5cGHolMpw"
+    },
+    {
+        "slug": "redbull",
+        "name": "Redbull",
+        "link_website": "https://www.redbull.com/pt-pt/",
+        "website": "redbull.com",
+        "img": "redbull.png",
+        "description": "Inspirado pelas bebidas funcionais do Extremo Oriente, Dietrich Mateschitz fundou a Red Bull em meados dos anos 80. Desenvolveu não apenas um novo produto, mas também um conceito de marketing único e lançou a Red Bull Energy Drink na Áustria a 1 de abril de 1987. Nascia assim, uma categoria de produto completamente nova - bebidas energéticas.",
+        "facebook": null,
+        "instagram": "https://www.instagram.com/redbullpor/",
+        "youtube_video_id": null
+    },
+
+    {
+        "slug": "penaaventura",
+        "name": "Pena Aventura",
+        "link_website": "https://www.penaaventura.com.pt/",
+        "website": "www.penaaventura.com.pt",
+        "img": "penaaventura.png",
+        "description": "O Pena Aventura Park é um parque de atividades lúdico e desportos Aventura para todos. Abriu as suas portas ao público em 2007 e, atualmente, é considerado um dos principais espaços de animação turística do Norte de Portugal.",
+        "facebook": null,
+        "instagram": "https://www.instagram.com/penaaventura/",
+        "youtube_video_id": "https://www.youtube.com/channel/UCHmB8aPGiQQS3p64rW9m9Uw"
+    },
+    {
+        "slug": "tapstore",
+        "name": "Tap Store",
+        "link_website": "https://store.flytap.com/",
+        "website": "store.flytap.com",
+        "img": "tapstore.png",
+        "description": " ",
+        "facebook": null,
+        "instagram": "https://www.instagram.com/tapairportugal/",
+        "youtube_video_id": "https://www.youtube.com/user/tap"
+    },
+    {
+        "slug": "flightconcept",
+        "name": "Flight Concept",
+        "link_website": "https://flightconcept.pt/",
+        "website": "flightconcept.pt",
+        "img": "flightconcept.png",
+        "description": "Com a missão de abrir o cockpit para o mundo, na Flight Concept disponibilizamos verdadeiras experiências imersivas de voo e pilotagem, tanto a entusiastas amadores, quanto a formandos audaciosos ou profissionais dedicados que querem treinar procedimentos para voar.",
+        "facebook": null,
+        "instagram": "https://www.instagram.com/flight.concept/",
+        "youtube_video_id": null
+    }
+]

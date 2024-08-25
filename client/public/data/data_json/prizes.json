@@ -1,0 +1,353 @@
+[
+    {
+        "slug": "redmibuds",
+        "name": "Redmi Buds 4 Lite Auriculares",
+        "size": "mid",
+        "url_img": "/img/premios/redmibuds.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares uns Redmi Buds 4 Lite Auriculares, assiste à Palestra de Nereida Agüera López, na segunda-feira, às 11h00. Ou assiste à Palestra de Alberto Sanchez, na quarta-feira, às 14h00.",
+        "company_slug": "aws",
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "deltaq",
+        "name": "Delta Q Mini Qool",
+        "size": "mid",
+        "url_img": "/img/premios/deltaq.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares uma Delta Q Mini Qool, participa no Workshop 'Power BI: Importância dos Dados', na segunda-feira, ao 12h30.",
+        "company_slug": "nttdata",
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "xiaomimiband8",
+        "name": "Xiaomi Mi Band 8",
+        "size": "mid",
+        "url_img": "/img/premios/xiaomimiband8.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares uma Xiaomi Mi Band 8, assiste à Palestra de Carolina Caffi Rodrigues, na segunda-feira, às 14h00. Ou assiste à Palestra de Pedro Castro, na quinta-feira, às 16h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "wirelesscharger",
+        "name": "Samsung Carregador Wireless 15W",
+        "size": "mid",
+        "url_img": "/img/premios/wirelesscharger.webp",
+        "type": "sorteio",
+        "description": "Para ganhares um Samsung Carregador Wireless 15W, assiste à Palestra de Alex Santos, na segunda-feira, às 16h00.",
+        "company_slug": "hass",
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "airfryer",
+        "name": "Airfryer 1450W 3.8L",
+        "size": "mid",
+        "url_img": "/img/premios/airfryer.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares uma Airfryer 1450W 3.8L, participa no Workshop 'Empreendedorismo Espacial 101', na terça-feira, ao 12h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "phonessony",
+        "name": "Auscultadores Bluetooth Sony WH-CH520B",
+        "size": "mid",
+        "url_img": "/img/premios/phonesony.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares uns Auscultadores Bluetooth Sony WH-CH520B, assiste à Palestra de Bruno Gárcio, na terça-feira, às 11h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "fnacgiftcard",
+        "name": "Fnac Gift Card 15€",
+        "size": "mid",
+        "url_img": "/img/premios/fnacgiftcard.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares um Fnac Gift Card 15€, assiste à Palestra de José Correia Guedes e João Roque , na terça-feira, às 14h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "aeromodelo",
+        "name": "Aeromodelo",
+        "size": "big",
+        "url_img": "/img/premios/aeromodelo.png",
+        "type": "sorteio",
+        "description": "Para ganhares um Aeromodelo, participa na Alumni Talks, na terça feira às 16h00",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "flightsimulation",
+        "name": "Simulador de Voo",
+        "size": "big",
+        "url_img": "/img/premios/simulador_voo.webp",
+        "type": "sorteio",
+        "description": "Para ganhares uma Experiência de Simulador de Voo, participa nas Roundtables, na quarta feira às 10h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "hyperx",
+        "name": "Hyper X Pulsefire Mouse",
+        "size": "big",
+        "url_img": "/img/premios/hyperx.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares um Hyper X Pulsefire Mouse, participa na Palestra de Ana Raposo, na quarta-feira, às 11h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "voucherpuraadrenalina",
+        "name": "Voucher Pura Adrenalina",
+        "size": "big",
+        "url_img": "/img/premios/voucherpuraadrenalina.png",
+        "type": "sorteio",
+        "description": "Para ganhares um Voucher Pura Adrenalina, participa na Alumni Talks, na quarta-feira, às 16h00. Ou assiste à Palestra de João Lousada, na quinta-feira, às 11h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "logitechkeyboard",
+        "name": "Logitech Mx Keys Keyboard",
+        "size": "big",
+        "url_img": "/img/premios/logitechkeyboard.webp",
+        "type": "sorteio",
+        "description": "Para ganhares um Logitech Mx Keys Keyboard, participa no Workshop 'Airline Strategy and Data Analysis Excel Workshop', na quarta-feira, às 17h30.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "monitor",
+        "name": "LG UltraGear 24'' IPS 144Hz Monitor",
+        "size": "big",
+        "url_img": "/img/premios/monitor.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares um LG UltraGear 24'' IPS 144Hz Monitor participa em qualquer atividade de terça-feira, dia 20 para ficares habilitado para o sorteio .Ou participa nas Roundtables, na quinta feira às 10h00",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "alexa",
+        "name": "Alexa Echo Dot 5th Gen",
+        "size": "mid",
+        "url_img": "/img/premios/alexa.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares um Alexa Echo Dot 5th Gen, participa no Workshop 'From space down to Earth in 120 minutes!', na terça-feira, ao 12h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "canonpixma",
+        "name": "Impressora Canon PIXMA TS3350",
+        "size": "mid",
+        "url_img": "/img/premios/canonpixma.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares uma Impressora Canon PIXMA TS3350, participa na Palestra de Paulo Chaves na quinta-feira, às 14h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "hotair",
+        "name": "Viagem de Balão de Ar Quente com UP Alentejo",
+        "size": "big",
+        "url_img": "/img/premios/viagem_balao.webp",
+        "type": "sorteio",
+        "description": "Para ganhares uma Viagem de Balão de Ar Quente com UP Alentejo, participa nas Roundtables, na sexta-feira, às 10h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "powerbank",
+        "name": "PowerBank Redmi 10000mAh",
+        "size": "big",
+        "url_img": "/img/premios/powerbank.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares um PowerBank Redmi 10000mAh, participa na Palestra da Teresa Ferreira, na sexta-feira, às 11h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "tandemjump",
+        "name": "Salto Tandem",
+        "size": "big",
+        "url_img": "/img/premios/saltotandem.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares um Salto Tandem, participa em qualquer atividade de segunda-feira, dia 19 para ficares habilitado para o sorteio. Ou participa no Workshop 'Orion Technik Skills Challenge', na sexta-feira, ao 12h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "jblgo",
+        "name": "JBL Go 3",
+        "size": "big",
+        "url_img": "/img/premios/jblgo.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares uma JBL GO 3, assiste à Palestra de Pedro Matos, na sexta-feira, às 14h00.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "safarka",
+        "name": "Safarka Escape Room",
+        "size": "big",
+        "url_img": "/img/premios/safarka.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares uma experiência 'Safarka Escape Room', participa em qualquer atividade de quarta-feira, dia 21 para ficares habilitado para o sorteio.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "legoferrari",
+        "name": "LEGO Ferrari 488 GTE",
+        "size": "mid",
+        "url_img": "/img/premios/legoferrari.png",
+        "type": "sorteio",
+        "description": "Para ganhares um Lego Ferrari 488 GTE, participa em qualquer atividade de quinta-feira, dia 22 para ficares habilitado para o sorteio.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "eletricscooter",
+        "name": "Xiaomi Trotinete Elétrica",
+        "size": "big",
+        "url_img": "/img/premios/eletricscooter.png",
+        "type": "sorteio",
+        "description": "Para ganhares uma Xiaomi Eletric Scooter, participa em qualquer atividade de sexta-feira, dia 23 para ficares habilitado para o sorteio.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "flyboard",
+        "name": "Experiência Naturimont Flyboard",
+        "size": "big",
+        "url_img": "/img/premios/flyboard.jpg",
+        "type": "sorteio",
+        "description": "Para ganhares uma Experiência Naturimont Flyboard, participa em atividades durante a semana inteira para ficares habilitado para o sorteio.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "nintendo",
+        "name": "Nintendo Switch V2 + Games",
+        "size": "big",
+        "url_img": "/img/premios/nintendo.webp",
+        "type": "sorteio",
+        "description": "Para ganhares uma Nintendo Switch V2 + Games, participa em atividades durante a semana inteira para ficares habilitado para o sorteio.",
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "caderno",
+        "name": "Caderno",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "caneca",
+        "name": "Caneca",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "copo",
+        "name": "Copo",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "garrafa",
+        "name": "Garrafa",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "meias",
+        "name": "Meias",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "palhinha",
+        "name": "Palhinha",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+
+    {
+        "slug": "saco",
+        "name": "Saco",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "tapeta",
+        "name": "Tapete de Rato",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "toalha",
+        "name": "Toalha",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "tshirt",
+        "name": "T-Shirt",
+        "size": "mid",
+        "url_img": null,
+        "type": "weel",
+        "description": null,
+        "company_slug": null,
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    },
+    {
+        "slug": "voucherpuraadrenalina",
+        "name": "Voucher Pura Adrenalina",
+        "size": "small",
+        "url_img": null,
+        "type": "sorteio",
+        "description": null,
+        "company_slug": "penaaventura",
+        "reveal": { "day": "2023-03-04", "time": "20:00" }
+    }
+]

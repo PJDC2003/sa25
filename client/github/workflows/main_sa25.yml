@@ -1,0 +1,82 @@
+name: Build and deploy React app to Azure Web App
+
+on:
+    push:
+        branches:
+            - main
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v3
+              with:
+                  node-version: '20'
+
+            - name: Install dependencies
+              run: npm install
+
+            - name: Build the project
+              run: npm run build
+
+            - name: Zip artifact for deployment
+              run: |
+                  zip -r release.zip ./build # Adjust the build output directory if needed
+
+            - name: Delete Old Artifacts
+              uses: actions/github-script@v6
+              id: artifact
+              with:
+                  script: |
+                      const res = await github.rest.actions.listArtifactsForRepo({
+                        owner: context.repo.owner,
+                        repo: context.repo.repo,
+                      })
+                      res.data.artifacts
+                        .filter(({ name }) => name === 'react-app')
+                        .forEach(({ id }) => {
+                          github.rest.actions.deleteArtifact({
+                            owner: context.repo.owner,
+                            repo: context.repo.repo,
+                            artifact_id: id,
+                          })
+                        })
+
+            - name: Upload artifact for deployment job
+              uses: actions/upload-artifact@v2
+              with:
+                  name: react-app
+                  path: release.zip
+
+    deploy:
+        runs-on: ubuntu-latest
+        needs: build
+        environment:
+            name: 'Production'
+            url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+
+        steps:
+            - name: Download artifact from build job
+              uses: actions/download-artifact@v2
+              with:
+                  name: react-app
+
+            - name: Unzip artifact for deployment
+              run: |
+                  unzip release.zip -d ./deploy
+                  rm release.zip
+
+            - name: Deploy to Azure Web App
+              uses: azure/webapps-deploy@v2
+              id: deploy-to-webapp
+              with:
+                  app-name: 'sa25'
+                  slot-name: 'Production'
+                  publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
+                  package: .
